@@ -1,0 +1,14 @@
+C:\Users\user.COMP-02.000\source\repos\base1\base1\bin\Debug\base1.exe.config
+C:\Users\user.COMP-02.000\source\repos\base1\base1\bin\Debug\base1.exe
+C:\Users\user.COMP-02.000\source\repos\base1\base1\bin\Debug\base1.pdb
+C:\Users\user.COMP-02.000\source\repos\base1\base1\bin\Debug\System.Data.OleDb.dll
+C:\Users\user.COMP-02.000\source\repos\base1\base1\bin\Debug\System.Data.OleDb.xml
+C:\Users\user.COMP-02.000\source\repos\base1\base1\obj\Debug\base1.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02.000\source\repos\base1\base1\obj\Debug\base1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02.000\source\repos\base1\base1\obj\Debug\base1.Form1.resources
+C:\Users\user.COMP-02.000\source\repos\base1\base1\obj\Debug\base1.Properties.Resources.resources
+C:\Users\user.COMP-02.000\source\repos\base1\base1\obj\Debug\base1.csproj.GenerateResource.cache
+C:\Users\user.COMP-02.000\source\repos\base1\base1\obj\Debug\base1.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02.000\source\repos\base1\base1\obj\Debug\base1.csproj.CopyComplete
+C:\Users\user.COMP-02.000\source\repos\base1\base1\obj\Debug\base1.exe
+C:\Users\user.COMP-02.000\source\repos\base1\base1\obj\Debug\base1.pdb
